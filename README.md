@@ -4,7 +4,7 @@
 
 # Manikanta Vejandla
 
-**Aspiring Data Analyst · SQL · Python · Power BI · Excel · Statistics · Turning Messy data into Meaningful Business insights**
+**Aspiring Data Analyst | SQL | Python | Power BI | Excel | Statistics | Turning Messy data into Meaningful Business insights**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ManikantaVejandla04&style=flat-square&color=6C63FF&label=Profile+Views)](https://github.com/ManikantaVejandla04)
 
